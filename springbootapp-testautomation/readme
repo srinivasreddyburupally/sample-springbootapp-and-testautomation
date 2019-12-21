@@ -1,0 +1,7 @@
+Step 1: Import this project to one of the IDE like IntelliJ or Eclipse
+
+Step 2: Start the Gmail Registration application by running below class
+/src/main/java/com/codetest/gmail/registration/RegistrationApplication.java
+
+Step 3: Once the Gmail Registration application started, you can run the below test class to execute test suite
+/src/test/java/com/codetest/gmail/registration/regression/RegistrationTestCases.java
